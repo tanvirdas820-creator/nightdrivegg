@@ -1,0 +1,13 @@
+{
+  "name": "nightdrive3d",
+  "version": "2.1.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "description": "Night Drive 3D - one server: game page, multiplayer, room chat, accounts API, owner chat"
+}
